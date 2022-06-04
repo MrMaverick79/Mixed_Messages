@@ -1,12 +1,12 @@
-#Welcome to the readme file for Mixed Messages
+# Welcome to the readme file for Mixed Messages
 
-##A CodeAcademy Project
+## A CodeAcademy Project
 
-###Brendan Tuckerman 2022
+### Brendan Tuckerman 2022
 
 ---
 
-##Planning phase:
+## Planning phase:
 
 From Codeacademy:
 :file_folder:
@@ -24,7 +24,7 @@ This project was also a chance to practice with markdown, which is totally :fire
 
 This program will return random inspirational (or not) quotes:
 
-	##"Never forget that you will always be something you're not.'
+	## "Never forget that you will always be something you're not.'
 	
 Where the string is formed of three different randomly selcted sections:
 
@@ -36,16 +36,16 @@ Where the string is formed of three different randomly selcted sections:
 
 **Steps & TODO**
 
-Set up and object with 3 nested  sample arrays with messsages- introduction, middle, end.
-Create random function that selects a number from 0 to length of array.
-Return a string that is a introduction + middle + end.
+~~Set up an object with 3 nested  sample arrays with messsages- introduction, middle, end.~~
+~~Create random function that selects a number from 0 to length of array.~~
+~~Return a string that is a introduction + middle + end.~~
 
 ---
 
 **Sample phrases**
 
 Introduction:  ["A strong soul is one which ", "Don't give up unless ", "You are bound to succeed unless "]
-Middle: ["your mother ", "someone else ", "the dog next door "]
+Middle: ["your mother", "someone else", "the dog next door"]
 End: ["forget.' , "gives in first.", "sleeps in so long that they miss the bus to work."]
 
 ---
